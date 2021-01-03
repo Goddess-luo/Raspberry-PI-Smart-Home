@@ -37,3 +37,4 @@ class FanControl(object):
         GPIO.output(self.InA, GPIO.LOW)#低电平
         GPIO.output(self.InB, GPIO.LOW)
 
+        
