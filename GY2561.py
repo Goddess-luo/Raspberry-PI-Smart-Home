@@ -72,3 +72,4 @@ class GY2561(object):
         #关闭模块
         return Lux
         pass
+    
