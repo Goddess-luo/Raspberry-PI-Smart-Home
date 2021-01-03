@@ -68,3 +68,4 @@ class TemplateMode(object):
         else:
             print "something is worong the humidity,humidity_point,temperature,temperature_point,check is", self.humidity, humidity_point, self.temperature, temperature_point, check
         pass
+    
