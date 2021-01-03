@@ -33,3 +33,4 @@ class KeyScanf(object):
             self.uiLoop = self.uiLoop + 1
         return self.keyvalue
         pass
+    
