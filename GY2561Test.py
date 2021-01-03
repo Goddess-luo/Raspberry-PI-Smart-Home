@@ -57,3 +57,4 @@ print '%f' % Lux
 
 wp.wiringPiI2CWrite(fd,CONTROL)
 wp.wiringPiI2CWrite(fd,POWER_DOWN)
+
