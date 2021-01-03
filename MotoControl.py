@@ -65,3 +65,5 @@ class MotoControl:
         self.setStep(0, 0, 0, 0)
     def destroy(self):
         GPIO.cleanup()  # Release resource
+
+       
